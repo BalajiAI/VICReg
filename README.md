@@ -1,5 +1,10 @@
 # VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning
 
+[VICReg: Variance Invariance Covariance Regularization for Self supervised Learning](https://arxiv.org/abs/2105.04906) is authored by Adrien Bardes along with Jean Ponce & Yann LeCun and was published at ICLR 2022.
+VICReg falls under the category of Non-contrastive methods applied to joint embedding architectures for Self-Supervised Learning (SSL). Despite it's simplicity, it performs on par with other SSL methods and supervised baselines on downstream tasks such as image classification & object detection.
+
+**Keywords:** Self-supevised Learning, Representation Learning
+
 ## Introduction
 Self Supervised Learning (SSL) is one of the hottest topic in AI/ML at the moment. SSL is a method for learning representations from unlabeled data. While Self-supervised learning has made a huge success in Natural Language Processing (Eg: BERT, GPT), SSL has shown significant progress only in the recent years (Eg: [DINO](https://arxiv.org/abs/2104.14294)).
 
