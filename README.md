@@ -15,7 +15,7 @@ In Contrastive learning, JEA is trained to maximize the similarity between diffe
 ## VICReg Description
 As you can see in the below illustration, two different views (X,X') of the batch of images (I) are generated using transformations (T), which are then passed to the joint embedding architecture to produce the embeddings (Z,Z'). Loss is calculated between the embeddings Z and Z' which needs to be minimized.
 
-![](https://raw.githubusercontent.com/facebookresearch/vicreg/main/.github/vicreg_archi_full.jpg)
+![](https://generallyintelligent.com/vicreg/vicreg_architecture.png)
 <p align="center"> Illustration of VICReg method </p>
 
 The main component of the VICReg method is the Loss which needs to be minimized. The loss is a linear combination of 3 separate losses,
