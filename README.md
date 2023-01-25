@@ -26,8 +26,7 @@ The main component of the VICReg method is the Loss which needs to be minimized.
 3.   **Covariance loss**: attracts the covariances (over a batch) between every pair of (centered) embedding variables towards zero.
 
 ***Use of loss***:
-Invariance loss helps in increasing the similarity between the embeddings (Z,Z'). Variance loss forces the embeddings of samples within a batch to be different. Covariance loss decorrelates the variables of each embedding or in other words, increases the information content of the embedding. Overall, the loss effectively prevents the collapse.
-
+Invariance loss helps in increasing the similarity between the embeddings (Z,Z'). Variance loss forces the embeddings of samples within a batch to be different, which effectively prevents the collapse. Covariance loss decorrelates the variables of each embedding or in other words, increases the information content of the embedding.
 
 
 ## References
