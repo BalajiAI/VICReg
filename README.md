@@ -34,7 +34,7 @@ Invariance loss helps in increasing the similarity between the embeddings (Z,Z')
 2.   Official codebase for VICReg ([link](https://github.com/facebookresearch/vicreg))
 3.   Yann LeCun. A Path Towards Autonomous Machine Intelligence. ([link](https://openreview.net/forum?id=BZ5a1r-kVsf&referrer=[the%20profile%20of%20Yann%20LeCun](%2Fprofile%3Fid%3D~Yann_LeCun1)))
 4.   SimCLR Jax/Flax Tutorial ([link](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/JAX/tutorial17/SimCLR.html))
-5.   My blog on Self-supervised Learning ([link](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/JAX/tutorial17/SimCLR.html))
+5.   My blog on Self-supervised Learning ([link](https://balajiai.medium.com/self-supervised-learning-af4f42854d0f))
 
 
 ## Citation
