@@ -6,7 +6,7 @@ VICReg falls under the category of Non-contrastive methods applied to joint embe
 **Keywords:** Self-supevised Learning, Representation Learning
 
 ## Introduction
-Self Supervised Learning (SSL) is one of the hottest topic in AI/ML at the moment. SSL is a method for learning representations from unlabeled data. While Self-supervised learning has made a huge success in Natural Language Processing (Eg: BERT, GPT), SSL has shown significant progress only in the recent years (Eg: [DINO](https://arxiv.org/abs/2104.14294)).
+Self Supervised Learning (SSL) is one of the hottest topic in AI/ML at the moment. SSL is a method for learning representations from unlabeled data. While Self-supervised learning has made a huge success in Natural Language Processing (Eg: BERT, GPT), SSL has shown significant progress in Computer vision only in the recent years (Eg: [DINO](https://arxiv.org/abs/2104.14294)).
 
 There are 2 popular methods for SSL applied to Vision, Contrastive Learning and Non-Contrastive Learning methods. Joint embedding architecture (JEA) is a core part behind these 2 methods. In simple terms, JEA consists of two networks which are trained to produce similar embeddings for different views of the same image. Siamese network is a popular instance of JEA, where the two networks share the same weights.
 
